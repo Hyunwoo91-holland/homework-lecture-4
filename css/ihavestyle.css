@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@100');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600');
+
+
+
+p{
+    color: #0000ff;
+    font-family: 'Roboto', 'sans-serif';
+}
+header{
+    color: rgb(200,0,200);
+    font-weight: bold;
+    font-family: 'Epilogue', 'sans-serif';
+}
+td{
+    color: rgba(111, 180, 214, 0.6);
+    font-style: italic;
+    border: 1px solid black;
+}
+th{
+    color: #ffff00;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+form{
+    color: brown;
+    font-family: 'Open Sans';
+}
+body{
+    background-color: gray;
+}
